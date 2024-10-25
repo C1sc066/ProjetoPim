@@ -1,0 +1,8 @@
+1,1,Pacote de alface,30,75.00,Debito
+2,1,Pacote de alface,5,12.50,Debito
+3,2,Batata,3.5,12.25,Debito
+4,1,Pacote de alface,20,50.00,Credito,12,10.00
+5,2,Batata,20,70.00,Credito,12,10.00
+6,5,Abacaxi,1,7.50,Credito,4,20.00
+7,1,Pacote de alface,5,12.50,Credito,4,20.00
+8,4,Tomate,10,60.00,Credito,4,20.00
